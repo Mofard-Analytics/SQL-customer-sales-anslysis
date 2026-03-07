@@ -9,6 +9,7 @@ This project analyzes customer sales data to identify key trends, top-performing
 - SQL (Data Analysis)
 - Power BI (Data Visualization)
 - Excel / CSV Dataset
+- Data aggregation
 
 ---
 
