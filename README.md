@@ -56,3 +56,4 @@ See the PDF file for full dashboard:
 - Add customer segmentation
 - Build predictive sales model
 - Connect to real-time data source
+- add stakeholder view
