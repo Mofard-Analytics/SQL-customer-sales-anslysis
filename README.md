@@ -41,6 +41,7 @@ This project analyzes customer sales data to identify key trends, top-performing
 
 ## 📊 Dashboard Preview
 See the PDF file for full dashboard:
+you can follow it by the below file
 👉 `Customer_Sales_Analysis_Dashboard.pdf`
 
 ---
