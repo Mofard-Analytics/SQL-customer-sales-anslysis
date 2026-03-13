@@ -15,7 +15,7 @@ FROM sales
 GROUP BY region
 ORDER BY regional_sales DESC;
 
--- Customer Purchase Frequency
+-- Customer Purchase Frequency by products
 SELECT customer_id, COUNT(order_id) AS total_orders
 FROM sales
 GROUP BY customer_id
